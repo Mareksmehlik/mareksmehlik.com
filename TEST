@@ -1,1 +1,12 @@
-
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+  <meta charset="UTF-8">
+  <title>PDF dokument</title>
+</head>
+<body>
+  <h1>PDF dokument</h1>
+  <p><a href="soubor.pdf" target="_blank">Stáhnout nebo zobrazit PDF</a></p>
+  <p><a href="index.html">Zpět na hlavní stránku</a></p>
+</body>
+</html>
